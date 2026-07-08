@@ -16,15 +16,15 @@ This repository contains the official implementation of **I<sup>2</sup>C-3D**, a
 > <sup>4</sup>Northwest University  
 > <sup>*</sup>Corresponding author
 
-## News 💡
+## 💡 News
 
-- **2026.06**: I<sup>2</sup>C-3D is accepted to ECCV 2026 .
+- **2026.06**: I<sup>2</sup>C-3D is accepted to ECCV 2026 🎉🎉.
 - Code cleanup and additional examples are in progress, because i'm busy with new works 💻.
 
 
 
 
-## Installation
+## 💻 Installation
 
 The code has been tested with Python 3.9 and PyTorch 2.0.1.
 
@@ -59,7 +59,7 @@ cd ..
 
 Some configurations use Shape-E or Point-E initialization. If your run requires these modules, install or place the corresponding packages so that Python can import `shap_e` and `point_e`.
 
-## Quick Start
+## ✅ Quick Start 
 
 Run one of the provided configuration files:
 
@@ -87,7 +87,7 @@ To enable Weights & Biases logging:
 python main.py --config-name=pillow wandb=true
 ```
 
-## Layout Generation with LLMs
+## 📈 Layout Generation with LLMs
 
 The repository includes a program-aided layout planning script:
 
