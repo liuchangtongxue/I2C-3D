@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/ECCV-2026-blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project-Page-lightgrey"></a>
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b"></a>
+  <a href="https://liuchangtongxue.github.io/i2c3d.github.io/"><img src="https://img.shields.io/badge/Project-Page-lightgrey"></a>
+  <a href="https://arxiv.org/abs/2606.24206"><img src="https://img.shields.io/badge/arXiv-2606.24206-b31b1b"></a>
 </p>
 
 This repository contains the official implementation of **I<sup>2</sup>C-3D**, an optimization-based framework for generating multi-view consistent compositional 3D assets with physically plausible object interactions.
