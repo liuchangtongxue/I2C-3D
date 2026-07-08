@@ -19,7 +19,7 @@ This repository contains the official implementation of **I<sup>2</sup>C-3D**, a
 ## 💡 News
 
 - **2026.06**: I<sup>2</sup>C-3D is accepted to ECCV 2026 🎉🎉.
-- Code cleanup and additional examples are in progress, because i'm busy with new works 💻.
+- Code cleanup and additional examples are in progress, because i'm busy with new works 😴.
 
 
 
